@@ -1,25 +1,3 @@
-// #include<stdio.h>
-
-// int minmax(int arr,int si){
-//     int min,max,mid,new_min,new_max;
-
-// }
-
-// void main(){
-//     int size;
-
-//     printf("Enter tot element: ");
-//     scanf("%d",&size);
-
-//     int arr[size];
-
-//     for(int i=0;i<size;i++)
-//      scanf("%d",&arr[i]);
-    
-//     minmax(arr,size);
-
-// }
-
 #include<stdio.h>
 #include<stdio.h>
 int max, min;
